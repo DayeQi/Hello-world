@@ -5,4 +5,4 @@ This dataset is in the format of six columns: text name | gender group | educati
 
 You can run your preferred analysis on it.
 
-**Note:** The groups that have insufficient cases for statistical analysis have been removed from the dataset.
+**Note:** The groups with insufficient cases for statistical analysis have been removed from the dataset.
